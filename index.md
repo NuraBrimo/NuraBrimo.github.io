@@ -12,9 +12,9 @@ I am interested in cell and nuclear biomechanics/mechanics, nanomedicine, and AI
 
 ## News
 
-- **[sep 2025]** Presented "Optimized Mechanical Isolation of Glioblastoma Nuclei for Biomechanical Analysis" at Charlotte Biomedical Sciences Symposium 2025 in Charlotte.
+- **[Sep 2025]** Presented "Optimized Mechanical Isolation of Glioblastoma Nuclei for Biomechanical Analysis" at Charlotte Biomedical Sciences Symposium 2025 in Charlotte.
 
-- **[sep 2025]** Presented "Optimized Mechanical Isolation of Glioblastoma Nuclei for Biomechanical Analysis" at 2025 Triangle Cytoskeleton Meeting in Durham.
+- **[Sep 2025]** Presented "Optimized Mechanical Isolation of Glioblastoma Nuclei for Biomechanical Analysis" at 2025 Triangle Cytoskeleton Meeting in Durham.
 
 - **[June 2025]** Published Book titled: "Nanomaterials in Glioblastoma Research, Diagnosis and Therapy".
 
