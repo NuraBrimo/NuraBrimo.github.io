@@ -42,5 +42,3 @@ I am interested in cell and nuclear biomechanics/mechanics, nanomedicine, and AI
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
-
