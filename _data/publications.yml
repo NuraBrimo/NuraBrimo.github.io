@@ -21,9 +21,9 @@ main:
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
 
-  - title: Artificial Intelligence in Predicting Hard Tissue Regeneration: Current Situation and Upcoming Perspectives
+  - title: Artificial Intelligence in Predicting Hard Tissue Regeneration Current Situation and Upcoming Perspectives
     authors: Nura Brimo, Dilek Çökeliler Serdaroğlu, Halit Muhittin, Mustafa Kaplan, Abdulwahab Omira
     conference: "Springer Nature Singapore"
-    image: "./assets/img/IMG_3517.jpeg"
+    image: ./assets/img/IMG_3517.jpeg
 
  
