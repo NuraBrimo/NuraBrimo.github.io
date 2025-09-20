@@ -40,3 +40,7 @@ I am interested in cell and nuclear biomechanics/mechanics, nanomedicine, and AI
 
 - **[2018]** Presented “Nanotechnology and Nanofiber from the World to Veterinary Medicine.” At Mediterranean Veterinary Congress-7 REEVE-MED General Assembly in Kırıkkale.
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/Professional_experience.md %}
+
