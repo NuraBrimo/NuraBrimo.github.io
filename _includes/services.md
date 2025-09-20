@@ -1,15 +1,15 @@
 ## Professional Experience
 
-<h4 style="margin:0 10px 0;">Duke University, PhD+ Program, Mar’25–Present</h4>
+<h4 style="margin:0 10px 0;">Duke University, PhD+ Program</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Board Member, Entrepreneurship, Business, Law & Consulting</autocolor></a></li>
+  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Board Member, Entrepreneurship, Business, Law & Consulting, Mar’25–Present</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Nobel Women's Initiative, September 2024–November 2024</h4>
+<h4 style="margin:0 10px 0;">Nobel Women's Initiative</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Sister-to-Sister Mentorship Program</autocolor></a></li>
+  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>Sister-to-Sister Mentorship Program, September 2024–November 2024</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">The White Helmets</h4>
